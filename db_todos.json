@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "text": "Design the UI",
+      "completed": false,
+      "id": 1,
+      "color": "green"
+    },
+    {
+      "text": "Update form ",
+      "completed": false,
+      "id": 2,
+      "color": "yellow"
+    },
+    {
+      "text": "Deploy backend and set CI pipeline ",
+      "completed": false,
+      "id": 3,
+      "color": "red"
+    },
+    {
+      "text": "Project initialization ",
+      "completed": true,
+      "id": 4
+    }
+  ]
+}
